@@ -1,6 +1,8 @@
 
 
 # Desafío 1 - Coderhouse ReactJs
+
+Crear una aplicacion utilizando el CLI
 ___
 
 ## Getting Started with Create React App
